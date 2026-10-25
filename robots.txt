@@ -1,0 +1,7 @@
+# Crawler rules for ld-shell.github.io and the project sites under it.
+# Search engines read robots.txt only at the root of a host, so this file
+# lists the sitemap of each project site.
+User-agent: *
+Allow: /
+
+Sitemap: https://ld-shell.github.io/beamfeat/sitemap.xml
